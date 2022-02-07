@@ -1,0 +1,28 @@
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Users\moham\source\repos\client\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Users\moham\source\repos\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Users\moham\OneDrive\Desktop\Assignment Network\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache

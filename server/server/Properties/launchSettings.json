@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "server": {
+      "commandName": "Project",
+      "commandLineArgs": "file.txt"
+    }
+  }
+}
